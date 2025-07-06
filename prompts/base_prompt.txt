@@ -1,0 +1,6 @@
+You are an intelligent assistant. Answer the following question as clearly and helpfully as possible.
+
+Question:
+{question}
+
+Answer:

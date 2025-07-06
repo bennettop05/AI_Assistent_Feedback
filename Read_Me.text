@@ -1,0 +1,15 @@
+# Agent Trace App 🧠
+
+A GenAI-powered assistant with tool usage and full trace logging.
+
+## Features
+- 🤖 Ask questions via LLM (GPT-3.5)
+- 🖼️ Detect image-related queries and run image captioning
+- 🧠 Logs agent's thought, tool used, and final answer
+- 📜 Trace log viewer in Streamlit
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py

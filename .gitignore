@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+trace_log.json
+temp_image.png
